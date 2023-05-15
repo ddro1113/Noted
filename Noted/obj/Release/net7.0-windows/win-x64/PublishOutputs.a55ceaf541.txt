@@ -1,0 +1,2 @@
+C:\Users\densyo\source\repos\Noted\Noted\bin\Release\net7.0-windows\publish\win-x64\Noted.pdb
+C:\Users\densyo\source\repos\Noted\Noted\bin\Release\net7.0-windows\publish\win-x64\Noted.exe

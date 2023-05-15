@@ -1,0 +1,17 @@
+C:\Users\densyo\source\repos\Noted\Noted\bin\Release\net7.0-windows\win-x64\Noted.exe
+C:\Users\densyo\source\repos\Noted\Noted\bin\Release\net7.0-windows\win-x64\Noted.deps.json
+C:\Users\densyo\source\repos\Noted\Noted\bin\Release\net7.0-windows\win-x64\Noted.runtimeconfig.json
+C:\Users\densyo\source\repos\Noted\Noted\bin\Release\net7.0-windows\win-x64\Noted.dll
+C:\Users\densyo\source\repos\Noted\Noted\bin\Release\net7.0-windows\win-x64\Noted.pdb
+C:\Users\densyo\source\repos\Noted\Noted\obj\Release\net7.0-windows\win-x64\Noted.csproj.AssemblyReference.cache
+C:\Users\densyo\source\repos\Noted\Noted\obj\Release\net7.0-windows\win-x64\Noted.Noted.resources
+C:\Users\densyo\source\repos\Noted\Noted\obj\Release\net7.0-windows\win-x64\Noted.csproj.GenerateResource.cache
+C:\Users\densyo\source\repos\Noted\Noted\obj\Release\net7.0-windows\win-x64\Noted.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\densyo\source\repos\Noted\Noted\obj\Release\net7.0-windows\win-x64\Noted.AssemblyInfoInputs.cache
+C:\Users\densyo\source\repos\Noted\Noted\obj\Release\net7.0-windows\win-x64\Noted.AssemblyInfo.cs
+C:\Users\densyo\source\repos\Noted\Noted\obj\Release\net7.0-windows\win-x64\Noted.csproj.CoreCompileInputs.cache
+C:\Users\densyo\source\repos\Noted\Noted\obj\Release\net7.0-windows\win-x64\Noted.dll
+C:\Users\densyo\source\repos\Noted\Noted\obj\Release\net7.0-windows\win-x64\refint\Noted.dll
+C:\Users\densyo\source\repos\Noted\Noted\obj\Release\net7.0-windows\win-x64\Noted.pdb
+C:\Users\densyo\source\repos\Noted\Noted\obj\Release\net7.0-windows\win-x64\Noted.genruntimeconfig.cache
+C:\Users\densyo\source\repos\Noted\Noted\obj\Release\net7.0-windows\win-x64\ref\Noted.dll
